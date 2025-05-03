@@ -19,4 +19,4 @@ python main.py
 - Tkinter (comes pre-installed with Python)
 
 ## Author
-sanay v v 
+sanay v v , Keerthi chowdary 

@@ -19,4 +19,4 @@ python main.py
 - Tkinter (comes pre-installed with Python)
 
 ## Author
-Generated with ❤️ using ChatGPT.
+sanay v v 
